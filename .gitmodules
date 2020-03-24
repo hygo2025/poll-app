@@ -1,0 +1,3 @@
+[submodule "poll-client"]
+	path = poll-client
+	url = https://github.com/hygo2025/poll-client.git
