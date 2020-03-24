@@ -1,3 +1,6 @@
 [submodule "poll-client"]
 	path = poll-client
 	url = https://github.com/hygo2025/poll-client.git
+[submodule "poll-server"]
+	path = poll-server
+	url = https://github.com/hygo2025/poll-server.git
