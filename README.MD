@@ -5,6 +5,7 @@
 `git submodule update`
 `chmod +x run.sh`
 `./run.sh`
+Go to `http://0.0.0.0:8000/`
 
 * Dependencies
 `linux or mac`
